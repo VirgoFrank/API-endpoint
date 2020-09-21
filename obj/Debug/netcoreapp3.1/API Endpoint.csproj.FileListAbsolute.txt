@@ -1,0 +1,13 @@
+C:\repos\API Endpoint\bin\Debug\netcoreapp3.1\API Endpoint.exe
+C:\repos\API Endpoint\bin\Debug\netcoreapp3.1\API Endpoint.deps.json
+C:\repos\API Endpoint\bin\Debug\netcoreapp3.1\API Endpoint.runtimeconfig.json
+C:\repos\API Endpoint\bin\Debug\netcoreapp3.1\API Endpoint.runtimeconfig.dev.json
+C:\repos\API Endpoint\bin\Debug\netcoreapp3.1\API Endpoint.dll
+C:\repos\API Endpoint\bin\Debug\netcoreapp3.1\API Endpoint.pdb
+C:\repos\API Endpoint\obj\Debug\netcoreapp3.1\API Endpoint.csprojAssemblyReference.cache
+C:\repos\API Endpoint\obj\Debug\netcoreapp3.1\API Endpoint.AssemblyInfoInputs.cache
+C:\repos\API Endpoint\obj\Debug\netcoreapp3.1\API Endpoint.AssemblyInfo.cs
+C:\repos\API Endpoint\obj\Debug\netcoreapp3.1\API Endpoint.csproj.CoreCompileInputs.cache
+C:\repos\API Endpoint\obj\Debug\netcoreapp3.1\API Endpoint.dll
+C:\repos\API Endpoint\obj\Debug\netcoreapp3.1\API Endpoint.pdb
+C:\repos\API Endpoint\obj\Debug\netcoreapp3.1\API Endpoint.genruntimeconfig.cache
